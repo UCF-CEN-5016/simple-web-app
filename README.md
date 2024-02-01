@@ -5,9 +5,9 @@
 
 This repo contains a barebones Node.js app using [Express 4](http://expressjs.com/). You will use this as the subject for Assignment #3. You will sign up for this assignment through GitHub classroom, and when you accept the assignment, it will create a fork of this repository for you to work on.
 
-## Homework Assignment #2 Detailed Instructions
+## Homework Assignment #3 Detailed Instructions
 
-You can find the deatiled instructions for HW Assignment #2 on the [course webpage](https://kpmoran.cs.gmu.edu/swe-432-s23/hw2/). Please read these carefully before getting started.
+You can find the deatiled instructions for HW Assignment #3 on the [course webpage](https://cs-ucf.github.io/CEN-5016-S24/assignments/assignment-3). Please read these carefully before getting started.
 
 ## Running this Project Locally
 
@@ -62,6 +62,6 @@ You can find the [GitHub Actions](https://github.com/features/actions) script fo
 
 ## Deploying to Render
 
-Check out [our instructions]() for deploying your application to Render.
+Check out [our instructions](https://cs-ucf.github.io/CEN-5016-S24/assignments/render-tutorial) for deploying your application to Render.
 
 
