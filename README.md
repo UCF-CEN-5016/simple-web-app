@@ -7,7 +7,7 @@ This repo contains a barebones Node.js app using [Express 4](http://expressjs.co
 
 ## Homework Assignment #3 Detailed Instructions
 
-You can find the deatiled instructions for HW Assignment #3 on the [course webpage](https://cs-ucf.github.io/CEN-5016-S24/assignments/assignment-3). Please read these carefully before getting started.
+You can find the deatiled instructions for HW Assignment #3 on the [course webpage](https://cs-ucf.github.io/CEN-5016-S24/assignments/index). Please read these carefully before getting started.
 
 ## Running this Project Locally
 
